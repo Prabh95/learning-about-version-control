@@ -6,4 +6,4 @@ DSCI 522
 - **Name:** Prabhjit Thind
 - **Email:** prabhjit.thind95@gmail.com
 
-“Solving merge conflicts is soooooo hard!”
+“Solving merge conflicts takes conscious effort, but I can do it!”
